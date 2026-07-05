@@ -8,15 +8,15 @@
     "pages:build": "npx @cloudflare/next-on-pages"
   },
   "dependencies": {
-    "next": "14.3.0",
-    "react": "^18",
-    "react-dom": "^18"
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "^1.13.2",
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18"
+    "@cloudflare/next-on-pages": "^1.13.12",
+    "typescript": "^5.5.4",
+    "@types/node": "^20.14.11",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
   }
 }
