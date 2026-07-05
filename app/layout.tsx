@@ -1,11 +1,3 @@
-import './globals.css'
-import type { Metadata } from 'next'
-
-export const metadata: Metadata = {
-  title: 'MuratX Admin',
-  description: 'Admin panel',
-}
-
 export default function RootLayout({
   children,
 }: {
